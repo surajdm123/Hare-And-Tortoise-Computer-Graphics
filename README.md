@@ -9,5 +9,5 @@ REQUIREMENTS: OPENGL LIBRARY
 
 This is a Visual Studio 2012/2008 Project File. If you want to access the project file, run the Solution file (Hare-And-Tortoise-Computer-Graphics/CGProj/CGProg.sln). 
 
-If you can't open the solution or you are using a different IDE, then the cpp (Source.cpp) file can be accessed from the follwing path:
+If you can't open the solution or you are using a different IDE, then the cpp (Source.cpp) file can be accessed from the following path:
 Hare-And-Tortoise-Computer-Graphics/CGProj/CGProj/Source.cpp
